@@ -48,9 +48,6 @@
 .seals1 {
   display: flex;
 }
-.nav {
-  margin-top: 500px;
-}
 .hole21 {
   right: 0;
   bottom: 0;
@@ -68,9 +65,6 @@
   flex-direction: column;
   left: 400px;
   justify-content: space-between;
-}
-.nav {
-  margin-top: 500px;
 }
 .hole31 {
   left: 50px;
@@ -92,9 +86,6 @@
   display: flex;
   left: 50px;
   top: 200px;
-}
-.nav {
-  margin-top: 500px;
 }
 .hole41 {
   left: 32.5px;
